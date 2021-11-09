@@ -1,2 +1,2 @@
-# Exploratory_Data_Analysis
+# Exploratory Data Analysis
 Repository for exploratory notebooks and ML models, online courses, etc...
